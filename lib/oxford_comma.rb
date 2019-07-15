@@ -4,7 +4,7 @@ array.join
 elsif array.length == 2
 array.join(" and ")
 else 
-  array[0..-2].join(", ") + array
+  array[0..-2].join(", ") " and "
 
 
 
